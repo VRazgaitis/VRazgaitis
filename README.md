@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Vaidas, and I'm a recovering structural engineer 🏗️
 
-I started coding while building tools to bring bold architectural designs to life in skyscrapers, stadiums, and airports.
+I started coding while building tools that bring bold architectural designs to life in skyscrapers, stadiums, and airports.
 
 Now, I focus on distributed systems, cloud computing, and CI/CD pipelines that help dev teams move FAST 🏎️💨
 

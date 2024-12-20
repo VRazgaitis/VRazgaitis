@@ -1,4 +1,9 @@
 ## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://images.squarespace-cdn.com/content/v1/5ea4e4f023282b27f40175cc/1588649479176-FZEJZL3GGGG6GXT4GM3C/Skift+Photo.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://images.squarespace-cdn.com/content/v1/5ea4e4f023282b27f40175cc/1588649479176-FZEJZL3GGGG6GXT4GM3C/Skift+Photo.jpg">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 
 <!--
 **VRazgaitis/VRazgaitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

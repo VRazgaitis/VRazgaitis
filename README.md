@@ -1,9 +1,9 @@
 ## Hi there 👋
 My name is Vaidas, and I'm a recovering structural engineer 🏗️
 
-I started coding while building tools that bring bold architectural designs to life in skyscrapers, stadiums, and airports.
+I started coding while designing daring architectural visions at ARUP - soaring skyscrapers, bustling international airports, and inspiring arts and cultural landmarks.
 
-Nowadays, I focus on distributed systems, cloud computing, and web apps that delight users😌
+Nowadays, I code web apps that delight users😌
 
 <figure>
   <picture>

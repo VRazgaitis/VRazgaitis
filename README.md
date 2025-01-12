@@ -1,9 +1,9 @@
 ## Hi there 👋
 My name is Vaidas, and I'm a recovering structural engineer 🏗️
 
-I started coding while designing daring architectural visions at ARUP - soaring skyscrapers, bustling international airports, and inspiring arts and cultural landmarks.
+I started coding while designing daring architectural projects at ARUP - soaring skyscrapers, bustling international airports, and arts and cultural landmarks.
 
-Nowadays, I code web apps that delight users😌
+I've since went all in on CS. i recently finished my MS in Comp Sci at UChicago, and am currently building March Fitness, a global fitness leaderboard challenege with 500+ daily active users🦾
 
 <figure>
   <picture>

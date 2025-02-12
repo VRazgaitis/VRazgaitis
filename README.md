@@ -3,7 +3,7 @@ My name is Vaidas, and I'm a recovering structural engineer 🏗️
 
 I started coding while designing daring architectural projects at ARUP - soaring skyscrapers, bustling international airports, and arts and cultural landmarks.
 
-I've since went all in on CS, and recently finished an MS in Comp Sci at UChicago.
+I've since went all in on CS, and recently finished an MS in Computer Science at UChicago.
 
 <figure>
   <picture>

@@ -1,9 +1,11 @@
 ## Hi there 👋
 My name is Vaidas, and I'm a recovering structural engineer 🏗️
 
-I started coding while designing daring architectural projects at ARUP - soaring skyscrapers, bustling international airports, and arts and cultural landmarks.
+> I started coding while designing bold architectural projects at ARUP - soaring skyscrapers, bustling international airports, and arts and cultural landmarks. Later, as a full-stack SWE at Nordic Structures in Montréal, I automated away the most complicated crux of mass timber connection design.
 
-I've since went all in on CS, and recently finished an MS in Computer Science at UChicago. Currently, I'm building [march.fit](https://march.fit), a global fitness leaderboard challenge (Strava-Twitter hybrid), and working at a startup in stealth. 
+I returned to the 🇺🇸 to accept a scholarship from the University of Chicago, completing an MS in Computer Science in an intensive year-long hiatus from professional practice.  
+
+Now, I'm building [march.fit](https://march.fit), a global fitness leaderboard challenge (Strava-Twitter hybrid), and working at an NYC-based, venture-backed startup in stealth. 
 
 <figure>
   <picture>

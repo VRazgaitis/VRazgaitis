@@ -1,9 +1,9 @@
 ## Hi there 👋
 My name is Vaidas, and I'm a recovering structural engineer 🏗️
 
-> I started coding while designing architectural projects at ARUP in NYC - skyscrapers, bustling international airports, and arts and cultural landmarks. Later, as a full-stack SWE at Nordic Structures in Montréal, I automated away the most complicated crux of mass timber connection design.
+> I started coding while designing architectural projects at ARUP in NYC - skyscrapers, bustling international airports, and arts and cultural landmarks. I later transitioned into a full-stack SWE at Nordic Structures in Montréal, and finished an MS in Computer Science at the University of Chicago.
 
-I recently finished an MS in Computer Science at the University of Chicago, and am building [march.fit](https://march.fit), a global fitness leaderboard challenge (Strava-Twitter hybrid), and working at an NYC-based, venture-backed startup in stealth. 
+Curently, I'm building [march.fit](https://march.fit), a global fitness leaderboard challenge (Strava-Twitter hybrid), and working as an AI Engineer at Higharc, a cloud based platform for home builders. 
 
 <figure>
   <picture>

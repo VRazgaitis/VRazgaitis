@@ -1,9 +1,7 @@
 ## Hi there 👋
-My name is Vaidas, and I'm a recovering structural engineer 🏗️
-
-> I started coding while designing architectural projects at ARUP in NYC - skyscrapers, bustling international airports, and arts and cultural landmarks. I later transitioned into a full-stack SWE at Nordic Structures in Montréal, and finished an MS in Computer Science at the University of Chicago.
-
-Curently, I'm building [march.fit](https://march.fit), a global fitness leaderboard challenge (Strava-Twitter hybrid), and working as an AI Engineer at Higharc, a cloud based platform for home builders. 
+> My name is Vaidas, and I'm an AI Engineer building production-grade agentic systems for automated home design.
+> 
+> I have a background in structural engineering and architecture (ARUP → Nordic Structures), now focused on AI/ML, full-stack web development, and MLOps.   
 
 <figure>
   <picture>

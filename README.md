@@ -1,5 +1,5 @@
 ## Hi there 👋
-> My name is Vaidas, and I'm an AI Engineer. I got a taste of computational design while designing the Mexico City Airport space frame roof (see below), and I've been hooked on coding ever since. I spend my days turning novel ML research into production-grade agentic systems for automated home design.
+> My name is Vaidas, and I'm an AI Engineer. I got a taste of computational design ( architecture / structural engineering / SWE ) while designing the Mexico City Airport, and I've been hooked on coding ever since. I spend my days turning novel ML research into production-grade agentic systems for automated home design.
 > 
 > I have a background in structural engineering and architecture (ARUP → Nordic Structures), now focused on AI/ML, agentic architectures, full-stack web development, and MLOps.   
 

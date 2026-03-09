@@ -3,7 +3,7 @@
 >
 >I got a taste of computational design ( architecture / structural engineering / SWE ) while designing the Mexico City Airport, and I've been hooked on coding ever since. For work, I turn novel ML research into production-grade agentic systems for automated home design.
 > 
-> I have a background in structural engineering and architecture (ARUP → Nordic Structures), now focused on AI/ML, agentic architectures, full-stack web development, and MLOps.   
+> I focus on AI/ML (transformers, CV, MLOps), with a particular interest in agentic system architectures, harness engineering, and autonomous cloud agents.   
 
 <figure>
   <picture>

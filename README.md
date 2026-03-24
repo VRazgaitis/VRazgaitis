@@ -10,7 +10,7 @@
 
 ## Hi there 👋 
 
-> I'm an **AI Engineer** focused on bringing architecture into the agentic era. I got a taste of computational design [ architecture / structural engineering / SWE ] while designing the Mexico City Airport, and I've been hooked on coding ever since. For work, I turn novel ML research into production-grade agentic systems for automated home design
+> _I'm an **AI Engineer** focused on bringing architecture into the agentic era. I got a taste of computational design [ architecture / structural engineering / SWE ] while designing the Mexico City Airport, and I've been hooked on coding ever since. For work, I turn novel ML research into production-grade agentic systems for automated home design_
 
 ## Focus areas
 * **`AI/ML Architecture`** : Transformers, Computer Vision (YOLO/SAM), and RAG

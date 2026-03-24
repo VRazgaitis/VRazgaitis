@@ -13,9 +13,9 @@
 > _I'm an **AI Engineer** focused on bringing architecture into the agentic era. I got a taste of computational design [ architecture / structural engineering / SWE ] while designing the Mexico City Airport, and I've been hooked on coding ever since. For work, I turn novel ML research into production-grade agentic systems for automated home design_
 
 ## Focus areas
-* **`AI/ML Architecture`** : Transformers, Computer Vision (YOLO/SAM), and ReAct tool-calling agents w/ memory
-* **`Agentic Systems`** : Building autonomous cloud agents and robust harness engineering
-* **`Infrastructure`** : MLOps, monorepo microservices, and high-performance developer tooling
+* **`AI/ML Architecture`** : Transformers, Computer Vision (YOLO/SAM), ReAct tool-calling agents w/ memory
+* **`Agentic Systems`** : Building autonomous cloud agents, a2a, and deeply interwoven agentic harnesses
+* **`Infrastructure`** : MLOps, monorepo microservices, high-performance dev tooling (TUIs)
 
 <figure>
   <picture>

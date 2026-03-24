@@ -13,7 +13,7 @@
 > _I'm an **AI Engineer** focused on bringing architecture into the agentic era. I got a taste of computational design [ architecture / structural engineering / SWE ] while designing the Mexico City Airport, and I've been hooked on coding ever since. For work, I turn novel ML research into production-grade agentic systems for automated home design_
 
 ## Focus areas
-* **`AI/ML Architecture`** : Transformers, Computer Vision (YOLO/SAM), and RAG
+* **`AI/ML Architecture`** : Transformers, Computer Vision (YOLO/SAM), and ReAct tool-calling agents w/ memory
 * **`Agentic Systems`** : Building autonomous cloud agents and robust harness engineering
 * **`Infrastructure`** : MLOps, monorepo microservices, and high-performance developer tooling
 
@@ -29,13 +29,13 @@ _New International Airport Mexico City. Image credits: Foster + Partners, FR-EE_
 
 ### Current stack
 <p align="left">
-<img src="https://img.shields.io/badge/Modal-16cf7a?style=flat-square&logo=modal&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Ghostty-000000?style=flat-square&logo=ghostty&logoColor=white" />
+<img src="https://img.shields.io/badge/Modal-16cf7a?style=flat-square&logo=modal&logoColor=black" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor-5E5E5E?style=flat-square&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Ghostty-000000?style=flat-square&logo=ghostty&logoColor=white" />
 </p>

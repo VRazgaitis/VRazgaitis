@@ -14,7 +14,7 @@
 
 ## Focus areas
 * **`AI/ML Architecture`** : Transformers, Computer Vision (YOLO/SAM), ReAct tool-calling agents w/ memory
-* **`Agentic Systems`** : Building autonomous cloud agents, a2a, and deeply interwoven agentic harnesses
+* **`Agentic Systems`** : Autonomous cloud agents, a2a (GAN-like PR generator-reviewer), and spatial reasoning agentic harnesses
 * **`Infrastructure`** : MLOps, monorepo microservices, high-performance dev tooling (TUIs)
 
 <figure>

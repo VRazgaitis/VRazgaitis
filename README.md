@@ -10,11 +10,11 @@
 
 ## Hi there!
 
-> _I'm an **AI Engineer** focused on bringing architecture into the agentic era. I got a taste of computational design [ architecture / structural engineering / SWE ] while designing the Mexico City Airport, and I've been hooked on coding ever since. For work, I turn novel ML research into production-grade agentic systems for automated home design_
+> _I'm an **AI Engineer** focused on bringing architecture into the agentic era. I got a taste of computational design [ architecture / structural engineering / SWE ] while designing the Mexico City Airport, and I've been hooked on coding ever since. For work, I turn novel ML research into production-grade services_
 
 ## Focus areas
-* **`AI/ML Architecture`** : Transformers, Computer Vision (YOLO/SAM), ReAct tool-calling agents w/ memory
-* **`Agentic Systems`** : Autonomous cloud agents, a2a (GAN-like PR generator-reviewer), and spatial reasoning agentic harnesses
+* **`AI/ML Architectures`** : Transformers, Computer Vision (YOLO/SAM), <- ReAct agents call those microservices as tools
+* **`Agentic Systems`** : Autonomous cloud agents, a2a (GAN-like PR generator-reviewer), agent memory and sub-agents
 * **`Infrastructure`** : MLOps, monorepo microservices, high-performance dev tooling (TUIs)
 
 <figure>

@@ -31,15 +31,15 @@ _New International Airport Mexico City. Image credits: Foster + Partners, FR-EE_
 
 ### Current stack
 <p align="left">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Modal-16cf7a?style=flat-square&logo=modal&logoColor=black" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-5E5E5E?style=flat-square&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Ghostty-000000?style=flat-square&logo=ghostty&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+<a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
+<a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /></a>
+<a href="https://modal.com/docs"><img src="https://img.shields.io/badge/Modal-16cf7a?style=flat-square&logo=modal&logoColor=black" /></a>
+<a href="https://pytorch.org/docs/stable/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /></a>
+<a href="https://docs.cursor.com/"><img src="https://img.shields.io/badge/Cursor-5E5E5E?style=flat-square&logo=cursor&logoColor=white" /></a>
+<a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
+<a href="https://docs.anthropic.com/en/docs/claude-code/overview"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" /></a>
+<a href="https://ghostty.org/docs"><img src="https://img.shields.io/badge/Ghostty-000000?style=flat-square&logo=ghostty&logoColor=white" /></a>
+<a href="https://vercel.com/docs"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://docs.astro.build/en/getting-started/"><img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" /></a>
 </p>

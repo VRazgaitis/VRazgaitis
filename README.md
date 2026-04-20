@@ -12,7 +12,9 @@
 
 ## Hi there!
 
-> _I'm an **AI Engineer** focused on bringing architecture into the agentic era. I got a taste of computational design [ architecture / structural engineering / SWE ] while designing the Mexico City Airport, and I've been hooked on coding ever since. For work, I turn novel ML research into production-grade services_
+> I'm an **AI Engineer** working on spatial reasoning agents in residential architecture. I got a taste of computational design (architecture / structural engineering / SWE) while designing the Mexico City Airport, and I've been hooked on coding ever since. I work at Higharc, where I turn novel ML research into production-grade services
+>
+> _See [Vaidas.ai/about](https://vaidas.ai/about/) for a longer bio_
 
 ## Focus areas
 * **`AI/ML Architectures`** : Transformers, Computer Vision (YOLO/SAM), <- ReAct agents call those microservices as tools
